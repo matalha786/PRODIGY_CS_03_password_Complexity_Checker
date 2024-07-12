@@ -70,9 +70,7 @@ This is a GUI-based tool that assesses the strength of a password based on crite
    - Strength: Weak
    - Feedback: Password must be at least 8 characters long. Include at least one uppercase letter. Include at least one number. Include at least one special character.
 
-## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
 ## License
 

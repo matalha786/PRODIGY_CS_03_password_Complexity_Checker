@@ -21,14 +21,10 @@ This is a GUI-based tool that assesses the strength of a password based on crite
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/password-complexity-checker.git
+   git clone https://github.com/matalha786/PRODIGY_CS_03_password_Complexity_Checker
    ```
 
 2. Navigate to the project directory:
-
-   ```bash
-   cd password-complexity-checker
-   ```
 
 3. Ensure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
 
